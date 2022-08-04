@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T12:31:31 IST" name="Default suite" finished-at="2022-07-18T12:31:31 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T12:31:31 IST" name="Default test" finished-at="2022-07-18T12:31:31 IST" duration-ms="79">
+      <class name="testng.NewTest">
+        <test-method is-config="true" signature="beforeTest1()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="beforeTest1" finished-at="2022-07-18T12:31:31 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest1 -->
+        <test-method is-config="true" signature="beforeClass1()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="beforeClass1" finished-at="2022-07-18T12:31:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="beforeMethod" finished-at="2022-07-18T12:31:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="b()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="b" finished-at="2022-07-18T12:31:31 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="afterMethod" finished-at="2022-07-18T12:31:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="f" finished-at="2022-07-18T12:31:31 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="beforeMethod" finished-at="2022-07-18T12:31:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="afterMethod" finished-at="2022-07-18T12:31:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="afterClass" finished-at="2022-07-18T12:31:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testng.NewTest@cad498c]" started-at="2022-07-18T12:31:31 IST" name="afterTest" finished-at="2022-07-18T12:31:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testng.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
